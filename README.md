@@ -14,6 +14,12 @@ TypeScript cannot handle type information for `.vue` imports by default, so we r
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+## Create Dotenv
+
+It is required to raise the backend first, I leave you a repo link so you can download it [Here](https://github.com/BrunoEmaSN/back-task-manager)
+
+    VITE_API_URL=http://www.api-url.com/api/v1
+
 ## Project Setup
 
 ```sh
